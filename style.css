@@ -1,0 +1,24 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+img{
+  margin: 10px;
+  height: 400px;
+  width:700px;
+}
+.Puppy{
+  margin: 2px;
+  margin-top:15px;
+  padding:2px;
+  padding-bottom:2.5px;
+}
+.at{
+  color:grey;
+  margin: 2px;
+  margin-bottom:5px;
+}
+.p1{
+  padding: 7px;
+}
